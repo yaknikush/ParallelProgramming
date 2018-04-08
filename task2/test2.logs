@@ -1,0 +1,48 @@
+=== RUN  Test2 for task2 with CommSize = 4
+MPI_Bcast:	0.0000053 seconds, took 159 loops
+MPI_Gather:	0.0000048 seconds, took 96 loops
+MPI_Reduce:	0.0000051 seconds, took 64 loops
+MPI_Scatter:	0.0000043 seconds, took 69 loops
+=== PASS Test2 for task2 with CommSize = 4
+=== RUN  Test2 for task2_2 with CommSize = 4
+"bcast" func:	0.0000074 seconds, took 95 loops
+MPI_Bcast:	0.0000051 seconds, took 210 loops
+"gather" func:	0.0000071 seconds, took 288 loops
+MPI_Gather:	0.0000046 seconds, took 38 loops
+"reduce" func:	0.0000050 seconds, took 31 loops
+MPI_Reduce:	0.0000045 seconds, took 2 loops
+"scatter" func:	0.0000055 seconds, took 15 loops
+MPI_Scatter:	0.0000043 seconds, took 14 loops
+=== PASS Test2 for task2_2 with CommSize = 4
+=== RUN  Test2 for task2 with CommSize = 4
+MPI_Bcast:	0.0000082 seconds, took 299 loops
+MPI_Gather:	0.0000052 seconds, took 142 loops
+MPI_Reduce:	0.0000051 seconds, took 71 loops
+MPI_Scatter:	0.0000045 seconds, took 7 loops
+=== PASS Test2 for task2 with CommSize = 4
+=== RUN  Test2 for task2_2 with CommSize = 4
+"bcast" func:	0.0000089 seconds, took 126 loops
+MPI_Bcast:	0.0000042 seconds, took 65 loops
+"gather" func:	0.0000081 seconds, took 28 loops
+MPI_Gather:	0.0000045 seconds, took 62 loops
+"reduce" func:	0.0000048 seconds, took 59 loops
+MPI_Reduce:	0.0000047 seconds, took 45 loops
+"scatter" func:	0.0000055 seconds, took 34 loops
+MPI_Scatter:	0.0000041 seconds, took 36 loops
+=== PASS Test2 for task2_2 with CommSize = 4
+=== RUN  Test2 for task2 with CommSize = 4
+MPI_Bcast:	0.0000144 seconds, took 601 loops
+MPI_Gather:	0.0000053 seconds, took 52 loops
+MPI_Reduce:	0.0000063 seconds, took 302 loops
+MPI_Scatter:	0.0000047 seconds, took 51 loops
+=== PASS Test2 for task2 with CommSize = 4
+=== RUN  Test2 for task2_2 with CommSize = 4
+"bcast" func:	0.0000080 seconds, took 103 loops
+MPI_Bcast:	0.0000046 seconds, took 14 loops
+"gather" func:	0.0000087 seconds, took 82 loops
+MPI_Gather:	0.0000052 seconds, took 30 loops
+"reduce" func:	0.0000057 seconds, took 56 loops
+MPI_Reduce:	0.0000052 seconds, took 2 loops
+"scatter" func:	0.0000064 seconds, took 2 loops
+MPI_Scatter:	0.0000048 seconds, took 11 loops
+=== PASS Test2 for task2_2 with CommSize = 4

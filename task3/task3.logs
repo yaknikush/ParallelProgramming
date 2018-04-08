@@ -1,0 +1,20 @@
+=== RUN  Test2 for task3 with CommSize = 4
+took 1562K ticks to do it!
+=== PASS Test2 for task3 with CommSize = 4
+=== RUN  Test2 for task3 with CommSize = 4 (static)
+took 2610K ticks to do it!
+=== PASS Test2 for task3 with CommSize = 4
+
+=== RUN  Test2 for task3 with CommSize = 4
+took 1676K ticks to do it!
+=== PASS Test2 for task3 with CommSize = 4
+=== RUN  Test2 for task3 with CommSize = 4 (static)
+took 1705K ticks to do it!
+=== PASS Test2 for task3 with CommSize = 4
+
+=== RUN  Test2 for task3 with CommSize = 4
+took 1916K ticks to do it!
+=== PASS Test2 for task3 with CommSize = 4
+=== RUN  Test2 for task3 with CommSize = 4 (static)
+took 2529K ticks to do it!
+=== PASS Test2 for task3 with CommSize = 4

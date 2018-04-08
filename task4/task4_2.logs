@@ -1,0 +1,32 @@
+task4 NUMBER_OF_THREADS = 4 np = 2
+=== RUN  Test on 20 elements
+(elapsed time 97 clocks)
+=== PASS Test on 20 elements
+=== RUN  Test on 1024 elements
+(elapsed time 11270 clocks)
+=== PASS Test on 1024 elements
+=== RUN  Test on 16384 elements
+(elapsed time 1541944 clocks)
+=== PASS Test on 16384 elements
+
+task4 NUMBER_OF_THREADS = 4 np = 4
+=== RUN  Test on 20 elements
+(elapsed time 275 clocks)
+=== PASS Test on 20 elements
+=== RUN  Test on 1024 elements
+(elapsed time 17857 clocks)
+=== PASS Test on 1024 elements
+=== RUN  Test on 16384 elements
+(elapsed time 435232 clocks)
+=== PASS Test on 16384 elements
+
+task4 NUMBER_OF_THREADS = 4 np = 8
+=== RUN  Test on 20 elements
+(elapsed time 521 clocks)
+=== PASS Test on 20 elements
+=== RUN  Test on 1024 elements
+(elapsed time 154577 clocks)
+=== PASS Test on 1024 elements
+=== RUN  Test on 16384 elements
+(elapsed time 288722 clocks)
+=== PASS Test on 16384 elements
